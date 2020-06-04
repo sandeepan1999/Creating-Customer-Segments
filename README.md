@@ -4,11 +4,11 @@
 * Transformed features using Principal Component Analysis(PCA).
 * Clustered the data using Gaussian Mixture model
 
-## Code and Resources used:
+## Code and Resources used
 **Python Version:** 3.7
 **Packages:** Numpy, Pandas, Matplotlib, Seaborn
 
-## Data:
+## Data
 The dataset contains the following features:
 * Fresh
 * Milk
@@ -17,7 +17,7 @@ The dataset contains the following features:
 * Detergents_Paper
 * Delicassen
 
-## EDA:
+## EDA
 I looked at the distributions of the data. Below are a few highlights.
 
 ![alt text](https://github.com/sandeepan1999/Creating-Customer-Segments/blob/master/scatter_matrix.png "Scatter-matrix")
