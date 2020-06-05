@@ -2,7 +2,7 @@
 * Created a tool that separates customers into segments to distinguish them as restaurants or grocery stores,etc.
 * Analyzed the relevance of the features for understanding the purchasing behaviours of the customers.
 * Transformed features using Principal Component Analysis(PCA).
-* Clustered the data using Gaussian Mixture model
+* Clustered the data using Gaussian Mixture model.
 
 ## Code and Resources used
 **Python Version:** 3.7
